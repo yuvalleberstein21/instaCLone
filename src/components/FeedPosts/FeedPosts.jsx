@@ -24,7 +24,6 @@ const FeedPosts = () => {
                     </Flex>
                     <Skeleton w={"full"}>
                         <Box h={"500px"}>contents wrapped</Box>
-
                     </Skeleton>
                 </VStack>
             ))}
